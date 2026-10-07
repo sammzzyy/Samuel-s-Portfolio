@@ -35,7 +35,7 @@ The website also contains separate CSS files for different screen sizes:
 * tablet.css – Tablet screens
 * phone.css – Smartphone screens
 
-Images are stored in the images folder and the introductory video is stored in the video folder.
+Images are stored in the images folder and the introductory video is stored in the videos folder.
 
 ## Responsive Design
 
@@ -139,7 +139,7 @@ All website navigation links were manually tested and are working correctly.
 
 No spelling errors were found during the spelling check.
 
-WAVE accessibility testing will be completed after the website is deployed to GitHub Pages.
+WAVE accessibility testing was completed on all four pages. The only WAVE issue reported was the missing language declaration.
 
 ## Version Control
 
